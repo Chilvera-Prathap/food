@@ -1,0 +1,223 @@
+body{
+    background-color: #eceee5;
+
+}
+div{
+    display: inline-block;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: 15px;
+    color: #c8882d;
+
+}
+.navbar{
+    height: 100px;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+a{
+    text-decoration: none;
+}
+#contact{
+    margin-right: 500px;
+}
+.mediaa{
+    display: inline-block;
+    align-items: center;
+    justify-content:space-evenly ;
+}
+.fa-brands{
+    margin-left: 20px;
+}
+
+p{
+    font-size: 50px;
+    color: #20263f;
+}
+.outer{
+    height: 1020px;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    margin-left: 0%;
+    justify-content:start;
+}
+#one{
+    width: 320px;
+    height: 300px;
+    border: 0px solid black;
+    border-radius: 5px;
+    background-image: url("./1st\ item.avif");
+    background-size: cover;
+    margin-bottom: 30px;
+    align-content: center;
+
+
+}
+#one:hover{
+        color: #20263f;
+        
+        
+}
+#two{
+    width: 320px;
+    height: 300px;
+    border: 0px solid black;
+    border-radius: 5px;
+    background-image: url("./2nd\ item.avif");
+    background-size: cover;
+    align-content: center;
+    
+}
+#two:hover{
+        color: #20263f;
+        
+}
+#three{
+    width: 320px;
+    height: 300px;
+    border: 0px solid black;
+    border-radius: 5px;
+    background-image: url("./3rd\ item.avif");
+    background-size: cover;
+    align-content: center;
+}
+#three:hover{
+        color: #20263f;
+        
+}
+#four{
+    width: 320px;
+    height: 300px;
+    border: 0px solid black;
+    border-radius: 5px;
+    background-image: url("./4th\ item.avif");
+    background-size: cover;
+    align-content: center;
+}
+#four:hover{
+        color: #20263f;
+        
+}
+
+#five{
+    width: 320px;
+    height: 300px;
+    border: 0px solid black;
+    border-radius: 5px;
+    background-image: url("./5th\ item.avif");
+    background-size: cover;
+    margin-bottom: 30px;
+    align-content: center;
+}
+#five:hover{
+        color: #20263f;
+        
+}
+#six{
+    width: 320px;
+    height: 300px;
+    border: 0px solid black;
+    border-radius: 5px;
+    background-image: url("./6th\ item.avif");
+    background-size: cover;
+    align-content: center;
+}
+#six:hover{
+        color: #20263f;
+        
+}
+#seven{
+    width: 320px;
+    height: 300px;
+    border: 0px solid black;
+    border-radius: 5px;
+    background-image: url("./7th\ item.avif");
+    background-size: cover;
+    align-content: center;
+}
+#seven:hover{
+        color: #20263f;
+        
+}
+#eight{
+    width: 320px;
+    height: 300px;
+    border: 0px solid black;
+    border-radius: 5px;
+    background-image: url("./8th\ item.avif");
+    background-size: cover;
+    align-content: center;
+}
+#eight:hover{
+        color: #20263f;
+        
+}
+#nine{
+    width: 320px;
+    height: 300px;
+    border: 0px solid black;
+    border-radius: 5px;
+    background-image: url("./9th\ item.avif");
+    background-size: cover;
+    margin-bottom: 30px;
+    align-content: center;
+}
+#nine:hover{
+        color: #20263f;
+        
+}
+#ten{
+    width: 320px;
+    height: 300px;
+    border: 0px solid black;
+    border-radius: 5px;
+    background-image: url("./10th\ item.avif");
+    background-size: cover;
+    align-content: center;
+}
+#ten:hover{
+        color: #20263f;
+        
+        
+}
+#eleven{
+    width: 320px;
+    height: 300px;
+    border: 0px solid black;
+    border-radius: 5px;
+    background-image: url("./11th\ item.avif");
+    background-size: cover;
+    align-content: center;
+}
+#eleven:hover{
+        color: #20263f;
+        
+}
+#twele{
+    width: 320px;
+    height: 300px;
+    border: 0px solid black;
+    border-radius: 5px;
+    background-image: url("./12th\ item.avif");
+    background-size: cover;
+    align-content: center;
+}
+#twele:hover{
+        color: #20263f;
+        
+        
+}
+
+footer{
+    color: #20263f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+
+}
+a{
+    color: #c8882d;
+}
